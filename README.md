@@ -2,6 +2,12 @@
 
 IAM | GRC | Microsoft Entra ID | Risk & Compliance
 
+<p>
+<a href="https://www.linkedin.com/in/knew416/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 Security+ Certified | SC-300 Candidate
 Building hands-on IAM & Governance labs focused on enterprise identity security.
 
@@ -47,6 +53,4 @@ ISO 27001
 
 SOC 2
 
-📫 Let’s Connect
 
-LinkedIn: www.linkedin.com/in/knew416
