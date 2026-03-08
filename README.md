@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Keneisha
 
-IAM | GRC | Microsoft Entra ID | Risk & Compliance
+💻 IAM | GRC | Identity Security  
+🔐 Microsoft Entra ID | RBAC | Access Governance  
+📚 Security+ | SC-300 Journey  
 
 <p>
 <a href="https://www.linkedin.com/in/knew416/">
@@ -8,49 +10,22 @@ IAM | GRC | Microsoft Entra ID | Risk & Compliance
 </a>
 </p>
 
-Security+ Certified | SC-300 Candidate
-Building hands-on IAM & Governance labs focused on enterprise identity security.
+I’m on a mission to break into the world of Identity & Access Management and Governance, Risk & Compliance.
 
-What I’m Currently Working On:
+I enjoy learning how organizations protect identities, manage access, and build security programs that actually work in the real world.
 
-Microsoft Entra ID RBAC Lab
+Here you'll find:
+🔐 IAM labs
+🔐 Entra ID experiments
+🔐 Governance & risk projects
+🔐 Security documentation
 
-Enterprise Application SSO Configuration
+I love solving problems, connecting the dots, and figuring out the “why” behind how systems work.
 
-Conditional Access Policies
+Every project here represents something new I've learned while growing in cybersecurity and identity security.
 
-Identity Lifecycle Management
+Always learning. Always building. 🚀
 
-Governance Mapping to NIST 800-53 & ISO 27001
-
-Core Skills:
-
-IAM
-
-Azure AD / Microsoft Entra ID
-
-RBAC
-
-Enterprise SSO
-
-User & Group Management
-
-Identity Lifecycle Management
-
-GRC
-
-Risk Assessments
-
-Control Mapping
-
-Policy Development
-
-Audit Documentation
-
-NIST 800-53
-
-ISO 27001
-
-SOC 2
+⭐ Follow my IAM & GRC journey as I build real-world security labs and projects.
 
 
